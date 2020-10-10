@@ -1,3 +1,3 @@
-(こちら)[https://review-react.netlify.app/]
+[こちら](https://review-react.netlify.app/)
 
-(ミラー)[https://shunyaendoh1215.github.io/review-react/]
+[ミラー](https://shunyaendoh1215.github.io/review-react/)
